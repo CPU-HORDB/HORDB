@@ -1,0 +1,89 @@
+table{
+	border:2px solid grey;
+	margin:60px auto 30px auto;
+	width: 80%;
+	border-collapse:collapse;
+	font-size: 12px;
+	font-family: PingFangSC-Regular;
+	word-wrap: break-word; 
+	word-break: break-all;
+    font-weight: 500;
+
+   }
+.pagetable th,td{
+	border: 2px solid #d6dbdb;
+	 
+ }
+.pagetable th{
+	background-color: #c5c5c5;
+}
+.detalinfor{
+	line-height: 30px;
+}
+.oddtr{
+	background-color: #e5ece5;
+	line-height: 30px;
+}
+table a{
+   text-decoration:none;
+   outline:none;
+   color: black;
+}
+table a:hover{
+	color: #1a5c25;
+}
+.disable, .disable2,.disable3{
+	border:1px solid black;
+	margin:7px;
+	padding: 2px 8px;
+	/*display: inline-block;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 30px;
+	*/
+ 
+}
+.disable a, .disable2 a{
+	color:#0d4b0d;
+}
+.disable,.disable3 {
+	width: 22px;
+	height: 18px;
+	
+
+}
+.disable3{
+	background-color: green;
+	color: white;
+}
+.disable2{
+	width: 25px;
+	height: 18px;
+}
+.disable:hover{
+	background-color: #7e958b;
+
+}
+.disable2:hover{
+	background-color: #7e958b;
+
+}
+#result{
+	width: 600px;
+	margin:100px auto;
+	height: 300px;
+	font-size: 40px;
+	padding: auto;
+}
+.yema{
+background-color: white;
+line-height: 40px;
+font-size: 14px;
+}
+.disable{
+	background-color: white;
+}
+.pagetable th{
+	height: 30px;
+	font-size: 15px;
+}

@@ -1,0 +1,47 @@
+h1 {
+	font-family: sans-serif;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+#submission li{
+	list-style: none;
+}
+#submission table{
+	margin-top: 30px;
+	font-size: 15px;
+	margin-left: 230px;
+	margin-bottom: 50px;
+}
+.sub-title {
+	text-align: right;
+	padding-right: 30px;
+	vertical-align:top;
+}
+.inp input,.tea textarea{
+  width: 300px;
+  border-radius: 5px;
+  border:1px solid #747e6b;
+}
+.inp{
+	height: 40px;
+
+}
+.tea{
+	height: 75px;
+	
+}
+#submission input{
+	height:25px;
+}
+#submission textarea{
+	height:50px;
+}
+#submission{
+	float: left;
+	width: 1000px;
+}
+
+
+#footer{
+	clear: both;
+}
