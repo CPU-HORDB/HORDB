@@ -1,5 +1,5 @@
 # HORDB
-Scripts for code of HORDB manuscript submitted to Sci Data
+Scripts for code of HORDB manuscript submitted to scientific data
 
 This program provides the source code and data of HORDB database.
 #About Data
