@@ -1,0 +1,101 @@
+.brow{
+	text-align: center;
+	float: left;
+	border: 1px dashed #8E8E8E;
+	width: 450px;
+	height: 200px;
+	margin: 5px;
+	background: white;
+}
+#b3{
+	clear: left;
+}
+#it{
+	width: 980px;
+	height: 550px;
+	margin-left:auto;
+	margin-right:auto;
+	background: white;
+}
+#it a{ text-decoration:none;} 
+#showfile1,#showfile,#showfile2{
+	cursor: pointer;
+	background-color: #8ebe91;
+	font-size: 23px;
+	width: 350px;
+	color: white;
+	padding-left: 30px;
+	height: 37px;
+	padding-top: 5px;
+	font-family: arial;
+	border-radius: 6px;
+
+}
+
+#browlist{
+	width: 50%;
+	float: left;
+	margin-top: 50px;
+	margin-left: 130px;
+    border: 1px solid #f0f1f1;
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-right: 40px;
+    border-radius: 7px;
+    background-color: #f0f1f1;
+}
+#cont-right{
+	float:left;
+	margin-left: 50px;
+	width: 250px;
+	padding: 0px;
+	margin-top: 100px;
+}
+.right-title2{
+	/*border-bottom: 1px solid #0a3a0a;*/
+	padding-left: 25px;
+	font-size: 19px;
+}
+.link{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.adress{
+	padding-bottom: 20px;
+	padding-top: 10px;
+	/*background-color: #f0f1f1;
+	border-radius: 7px;
+	box-shadow: 3px 3px 5px #888888;*/
+}
+hr {
+	width: 200px;
+	align-content: center;
+}
+.link img{
+	width: 70px;
+	height:25px;
+	margin-left: 35px;
+	margin-bottom: 10px;
+}
+.right-title{
+	border-bottom: 1px solid #0a3a0a;
+	padding-left: 10px;
+	width: 200px;
+	font-size: 17px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#browlist a {
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+}
+#browlist a:hover{
+	color: green;
+}
+#browlist li{
+	line-height: 30px;
+	
+
+}
